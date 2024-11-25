@@ -12,7 +12,7 @@
 composer require andryjka/otus
 
 ## Использование
-<?php
 
 $spaceChecker = new SpaceChecker();
+
 echo $spaceChecker->checkSpace();
