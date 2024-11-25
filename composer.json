@@ -1,0 +1,17 @@
+{
+    "name": "andryjka/otus",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Andryjka\\Otus\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "andryjka"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
